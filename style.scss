@@ -106,19 +106,6 @@ body{
 	padding: 5px;
 }
 
-.footer{
-	width: 100%;
-	height: 80px;
-	margin-top: 20px;
-	background-color: rgba(166,166,161, .9);
-	display: flex;
-	justify-content: center;
-	align-items: center;
-}
-
-.gmail{
-	width: 50px;
-}
 
 @media screen  and (max-width: 980px){
 	.title{
@@ -187,13 +174,7 @@ body{
 	.container{
 		padding: 0;
 	}
-	.footer{
-		height: 70px;
-	}
 
-	.gmail{
-		width: 40px;
-	}
 }
 
 
@@ -229,11 +210,5 @@ body{
 	body{
 		padding: 8px;
 	}
-	.footer{
-		height: 60px;
-	}
 
-	.gmail{
-		width: 35px;
-	}
 }
